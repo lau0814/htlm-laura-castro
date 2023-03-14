@@ -1,0 +1,21 @@
+#titulo {
+  text-shadow: 2px 2px red;
+}
+#frase {
+  background-color: yellow;
+}
+
+#ratas {
+  color: green;
+}
+.rie {
+  color: white;
+  background-color: black;
+}
+.lala {
+  color: blue;
+}
+#calva {
+  text-shadow: 10px 10px pink;
+  font-size: 50px;
+}
