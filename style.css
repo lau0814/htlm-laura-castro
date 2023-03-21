@@ -11,3 +11,9 @@
   margin-right: auto;
   filter: grayscale(100%) drop-shadow(10px 10px pink);
 }
+#Ratita {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(100%) drop-shadow(10px 10px green);
+}
