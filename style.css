@@ -2,18 +2,25 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  filter: grayscale(100%) drop-shadow(10px 10px blue);
+  filter: grayscale(100%) drop-shadow(10px 10px green);
+}
+#titulo {
+  text-shadow: 2px 2px green;
+}
+
+#ratita {
+  display: block;
+  filter: grayscale(100%) drop-shadow(10px 10px yellow);
+}
+#titulo2 {
+  background-color: papayawhip;
 }
 
 #hola {
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(100%) drop-shadow(10px 10px pink);
+  filter: drop-shadow(10px 10px pink);
 }
-#Ratita {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(100%) drop-shadow(10px 10px green);
+#titulo3 {
+  color: purple;
 }
